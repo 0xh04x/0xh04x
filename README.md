@@ -12,7 +12,11 @@ Hey! My name's h04x, I'm a student and I'm passionate about computers, maths and
 
 - root-me : [h04x](https://www.root-me.org/h04x-810658)
 - TryHackMe : [Akumuu](https://tryhackme.com/p/Akumuu)
-- HackTheBoy : [h04x](https://app.hackthebox.com/profile/987412)
+- HackTheBox : [h04x](https://app.hackthebox.com/profile/987412)
+- CTFtime : [lh04x](https://ctftime.org/user/158012)
+- Discord : 0xh04x
+- 
+
 
 ##
 <p align="center">
