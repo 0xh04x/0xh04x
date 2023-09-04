@@ -12,7 +12,7 @@ Hey! My name's h04x, I'm a student and I'm passionate about computers, maths and
 
 ##
 <p align="center">
-  <img src="https://moe-counter.glitch.me/get/@yvainix?theme=asoul">
+  <img src="https://moe-counter.glitch.me/get/@0xh04x?theme=asoul">
 </p>
 
 ##
