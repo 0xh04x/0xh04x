@@ -10,6 +10,10 @@ Hey! My name's h04x, I'm a student and I'm passionate about computers, maths and
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=0xh04x&theme=tokyo-night"/>
 </p>
 
+- root-me : [h04x](https://www.root-me.org/h04x-810658)
+- TryHackMe : [Akumuu](https://tryhackme.com/p/Akumuu)
+- HackTheBoy : [h04x](https://app.hackthebox.com/profile/987412)
+
 ##
 <p align="center">
   <img src="https://moe-counter.glitch.me/get/@0xh04x?theme=asoul">
