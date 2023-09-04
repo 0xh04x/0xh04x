@@ -1,5 +1,5 @@
 <p align="center">
-![lain](./lain.gif)
+  <img src="./lain.gif">
 </p>
 <h1 align="center">Welcome to my GitHub profile!</h1>
 
