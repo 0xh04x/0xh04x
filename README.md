@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="avatar.png" alt="Lain" width="125">
+  ![lain](https://github.com/0xh04x/0xh04x/assets/77418616/25cda951-5dd6-4a94-bdd4-158ec552589d)
 </p>
 <h1 align="center">Welcome to my GitHub profile!</h1>
 
