@@ -14,6 +14,7 @@ Hey! My name's h04x, I'm a student and I'm passionate about computers, cybersecu
 - TryHackMe : [Akumuu](https://tryhackme.com/p/Akumuu)
 - HackTheBox : [h04x](https://app.hackthebox.com/profile/987412)
 - CTFtime : [lh04x](https://ctftime.org/user/158012)
+- Steam : [h04x]()
 - Discord : 0xh04x
 
 ##
