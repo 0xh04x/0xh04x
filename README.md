@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Welcome to my GitHub profile!</h1>
 
-Hey! My name's h04x, I'm a student and I'm passionate about computers, cybersecurity and physic. I love reverse engineering, algorithms and cryptography. I do my best to progress and learn new things. 
+Hey! My name's h04x, I'm a student and I'm passionate about computers, cybersecurity and physic. I love reverse engineering, movies and videogames. I do my best to progress and learn new things. 
 
 ##
 <p align="center">
