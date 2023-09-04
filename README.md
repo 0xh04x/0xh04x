@@ -1,5 +1,5 @@
-<h1 align="center">Welcome to my Github! h04x</h1>
-<h3 align="center">I am a student from germany who loves Reverse Engineering</h3>
+<h1 align="center">Welcome to my Github!</h1>
+<h3 align="center">I am a student from germany who loves Reverse Engineeringand Cybersec in general</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xh04x" alt="0xh04x" /></a> </p>
 
