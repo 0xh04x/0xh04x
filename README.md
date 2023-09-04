@@ -15,8 +15,6 @@ Hey! My name's h04x, I'm a student and I'm passionate about computers, maths and
 - HackTheBox : [h04x](https://app.hackthebox.com/profile/987412)
 - CTFtime : [lh04x](https://ctftime.org/user/158012)
 - Discord : 0xh04x
-- 
-
 
 ##
 <p align="center">
