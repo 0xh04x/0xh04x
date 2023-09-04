@@ -1,6 +1,5 @@
-<p align="center">
-  ![lain](./lain.gif)
-</p>
+![lain](./lain.gif)
+
 <h1 align="center">Welcome to my GitHub profile!</h1>
 
 Hey! My name's h04x, I'm a student and I'm passionate about computers, maths and physics. I love reverse engineering, algorithms and cryptography. I do my best to progress and learn new things. 
