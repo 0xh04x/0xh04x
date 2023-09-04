@@ -1,8 +1,6 @@
 <h1 align="center">Welcome to my Github!</h1>
 <h3 align="center">I am a student from germany who loves Reverse Engineeringand Cybersec in general</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xh04x" alt="0xh04x" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/lh04xx" target="blank"><img src="https://img.shields.io/twitter/follow/lh04xx?logo=twitter&style=for-the-badge" alt="lh04xx" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
