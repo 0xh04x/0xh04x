@@ -15,7 +15,7 @@ Hey! My name's h04x, I'm a student and I'm passionate about computers, cybersecu
 - HackTheBox : [h04x](https://app.hackthebox.com/profile/987412)
 - CTFtime : [lh04x](https://ctftime.org/user/158012)
 - Steam : [h04x](https://steamcommunity.com/id/xh04x/)
-- Discord : 0xh04x
+- Discord : lh04x
 
 ##
 <p align="center">
