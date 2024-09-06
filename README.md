@@ -11,7 +11,7 @@ Hey! My name's h04x, I'm a student and I'm passionate about computers, cybersecu
 </p>
 
 - root-me : [h04x](https://www.root-me.org/h04x-810658)
-- TryHackMe : [lh04x](https://tryhackme.com/p/lh04x)
+- TryHackMe : [akuu](https://tryhackme.com/p/akuu)
 - HackTheBox : [h04x](https://app.hackthebox.com/profile/987412)
 - CTFtime : [lh04x](https://ctftime.org/user/158012)
 - Steam : [h04x](https://steamcommunity.com/id/xh04x/)
